@@ -17,7 +17,7 @@ Fique por dentro
 
 ## Trilha
 
-- [Instalação](#instalacao)
+- [Instalação](#Instalação)
   - [Instalando no Mac](#git-no-mac)
   - [With Bootstrap](#with-bootstrap)
   - [With Material Design](#with-material-design)
@@ -70,17 +70,7 @@ Fique por dentro
 - [License](#license)
 - [Contributors](#contributors)
 
-## Screenshot
-
-![animated demo screenshot](https://user-images.githubusercontent.com/781818/37562235-0ae9e9ec-2a3a-11e8-8266-b0e6b716d0d1.gif)
-
-## Demo
-
-##### Vanilla, no framework
-
-Online demo: https://dowjones.github.io/react-dropdown-tree-select/#/story/with-vanilla-styles
-
-##### With Bootstrap
+ 
 
 Online demo: https://dowjones.github.io/react-dropdown-tree-select/#/story/with-bootstrap-styles
 
@@ -92,7 +82,7 @@ Online demo: https://dowjones.github.io/react-dropdown-tree-select/#/story/with-
 
 Online demo: https://dowjones.github.io/react-dropdown-tree-select/#/story/simple-select
 
-## Install
+## Instalação
 
 ### As NPM package
 
